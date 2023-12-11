@@ -15,7 +15,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 
 https://doi.org/10.1287/ijoc.2022.0275
 
-!TO BE ADDED!
+https://doi.org/10.1287/ijoc.2022.0275.cd
 
 Below is the BibTex for citing this snapshot of the respoitory.
 
