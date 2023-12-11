@@ -41,4 +41,7 @@ The [scripts](scripts) folder contains MATLAB code files for reproducing the num
 Note that [CompRatioComparison.m](scripts/CompRatioComparison.m) and [RegretQuantiles.m](scripts/RegretQuantiles.m) both include code to solve optimization problems to determine the nominal optimal benchmark mechanism. To execute the code as provided, it is needed to have the [YALMIP](https://yalmip.github.io/) interface and [GUROBI](https://www.gurobi.com/) solver installed, along with a valid GUROBI license.
 
 The [results](results) folder contains the figures presented in our paper, derived from the conducted numerical experiments.
+## Support
 
+For support in using this software, submit an
+[issue](https://github.com/INFORMSJoC/2022.0275/issues/new).
