@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[Regret Minimization and Separation in Multi-Bidder Multi-Item Auctions](LINK TO BE ADDED) by Çağıl Koçyiğit, Daniel Kuhn and Napat Rujeerapaiboon.
+[Regret Minimization and Separation in Multi-Bidder Multi-Item Auctions](https://doi.org/10.1287/ijoc.2022.0275) by Çağıl Koçyiğit, Daniel Kuhn and Napat Rujeerapaiboon.
 
 ## Cite
 
