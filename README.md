@@ -39,7 +39,7 @@ This repository aims to showcase the effectiveness of our proposed regret-minimi
 
 The [scripts](scripts) folder contains MATLAB code files for reproducing the numerical results in our paper. [CompRatioComparison.m](scripts/CompRatioComparison.m) contains the code for comparing our mechanism to benchmarks in terms of competitive ratio, while [RegretQuantiles.m](scripts/RegretQuantiles.m) contains the code for assesing regret quantiles, both for 2-bidder case. [HigherDimension.m](scripts/HigherDimension.m) includes the code for comparison with a higher number of bidders. It is separated to avoid the computational challenge of computing the nominal optimal mechanism (one of the benchmarks) in cases with more bidders. 
 
-Note that [CompRatioComparison.m](scripts/CompRatioComparison.m) and [RegretQuantiles.m](scripts/RegretQuantiles.m) both include code to solve optimization problems to determine the nominal optimal benchmark mechanism. To execute the code as provided, it is needed to have the [YALMIP](https://yalmip.github.io/) interface and [GUROBI](https://www.gurobi.com/) solver installed, along with a valid GUROBI license.
+Note that [CompRatioComparison.m](scripts/CompRatioComparison.m) and [RegretQuantiles.m](scripts/RegretQuantiles.m) both include code to solve optimization problems to determine the nominal optimal benchmark mechanism. To execute the code as provided, it is needed to have the [YALMIP](https://yalmip.github.io/) interface and [Gurobi](https://www.gurobi.com/) solver installed, along with a valid Gurobi license.
 
 The [results](results) folder contains the figures presented in our paper, derived from the conducted numerical experiments.
 ## Support
