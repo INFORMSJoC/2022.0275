@@ -32,7 +32,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-This repository aims to showcase the effectiveness of our proposed regret-minimizing mechanism (see [Regret Minimization and Separation in Multi-Bidder Multi-Item Auctions](LINK TO BE ADDED)) against various benchmark mechanisms.
+This repository aims to showcase the effectiveness of our proposed regret-minimizing mechanism against various benchmark mechanisms.
 
 ## Content
 
