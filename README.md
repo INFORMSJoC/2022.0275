@@ -13,7 +13,7 @@ that were used in the research reported on in the paper
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-!TO BE ADDED!
+https://doi.org/10.1287/ijoc.2022.0275
 
 !TO BE ADDED!
 
