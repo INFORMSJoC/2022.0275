@@ -20,7 +20,14 @@ https://doi.org/10.1287/ijoc.2022.0275.cd
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-!TO BE ADDED!
+@article{kocyigit2023,
+  author =        {Çağıl Koçyiğit and Daniel Kuhn and Napat Rujeerapaiboon},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{Regret Minimization and Separation in Multi-Bidder Multi-Item Auctions}},
+  year =          {2023},
+  doi =           {10.1287/ijoc.2022.0275.cd},
+  url =           {https://github.com/INFORMSJoC/2022.0275},
+}  
 ```
 
 ## Description
